@@ -1,0 +1,61 @@
+html, body{
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.navbar-brand {
+    margin-top: 2em;
+} 
+
+.
+
+.icon {
+    flex-basis: auto;
+    align-self: flex-end;
+    float: right !important;
+    margin-bottom: 15px;
+}
+    
+.settings {
+    margin-bottom: 15px
+    }
+
+.row {
+    margin-top: 20px;
+}
+.row::before {
+    margin-bottom: 40px;}
+
+#NewM {
+    margin-top: 5em;
+    margin-bottom: 2.5em;
+    margin-right:auto;
+    position:inherit;
+}
+
+.bi-search {float: inline-start;}
+
+#read {
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: auto;
+    margin-bottom: auto;
+    float: right;
+}
+
+#contacts {margin-bottom: 2.5em;}
+
+.card {
+    margin-top: 15px;
+    margin-bottom:15px;
+    width: 100%;
+    }
+
+#Pi {float:inline-start;}
+    
